@@ -10,7 +10,6 @@ echo "用户修改区－开始"
 #要替换的源代码所在的根目录,该脚本文件与根目录处于同级文件夹
 #自行修改，混淆的项目名称
 ROOTFOLDER="shakefun"
-#要排除的文件夹,例如demo中用到的第三方库AFNetworking等
 EXCLUDE_DIR="--exclude-dir=SVProgressHUD --exclude-dir=AFNetworking --exclude-dir=MagicalRecord --exclude-dir=Images.xcassets"
 echo "用户修改区－结束"
 
